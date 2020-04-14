@@ -1,0 +1,18 @@
+#!/bin/bash
+set -e
+
+echo '-------'
+echo 'node -v'
+docker-compose run --rm docusaurus node -v
+
+echo '--------------'
+echo 'yarn --version'
+docker-compose run --rm docusaurus yarn --version
+
+echo '-------------------'
+echo 'cat /etc/os-release'
+docker-compose run --rm docusaurus cat /etc/os-release
+
+echo '---'
+echo 'env'
+docker-compose run --rm docusaurus env
