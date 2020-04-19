@@ -90,8 +90,6 @@ class Index extends React.Component {
             <ul>
             <li><a href="docs/01-01.html">Prerequisites</a></li>
             <li><a href="docs/01-02.html">Installing Docker</a></li>
-            <li><a href="docs/01-03.html">Installing the Minimal Stage 1 Docker image</a></li>
-            <li><a href="docs/03-01.html">Installing the general Ruby on Rails Docker image</a></li>
             </ul>
           </Container>
         </div>
