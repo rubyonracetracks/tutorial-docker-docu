@@ -1,5 +1,5 @@
 #!/bin/bash
 
-# Open a Bash shell in the Docker container as root.
+# Enter the Docker container as root.
 
 bin/yroot
