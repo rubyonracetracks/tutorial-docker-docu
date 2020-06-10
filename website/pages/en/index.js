@@ -86,7 +86,7 @@ class Index extends React.Component {
           Welcome to the Different Docker Tutorial!  This is a <a href="https://www.rubyonracetracks.com/">Ruby on Racetracks</a> web site.  Follow the tutorial to learn the special Ruby on Racetracks spin on Docker.
 
           <h2>Shortcut</h2>
-          If you just want to install Ruby on Rails right now, these are the chapters you should go through:
+          If you just want to install Docker right now, these are the chapters you should go through:
             <ul>
             <li><a href="docs/01-01.html">Prerequisites</a></li>
             <li><a href="docs/01-02.html">Installing Docker</a></li>
